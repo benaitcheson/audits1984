@@ -1,7 +1,6 @@
 require "console1984"
 require "importmap-rails"
 require "turbo-rails"
-require "rinku"
 
 module Audits1984
   class Engine < ::Rails::Engine
